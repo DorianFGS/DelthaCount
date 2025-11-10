@@ -1,0 +1,47 @@
+1,Activos,860855.0
+11,Activo Circulante,805300.0
+111,Caja,15300.0
+112,Banco,590000.0
+1121,Banamex,590000.0
+1122,Bancomer,0.0
+1123,Santander,0.0
+1124,Banco Azteca,0.0
+113,Almacén,0.0
+1131,Aguas,0.0
+114,Cliente,0.0
+115,Local,200000.0
+12,Activo no Circulante,0.0
+121,Equipo Cómputo,0.0
+122,Equipo/Mobiliario,0.0
+1221,Maquinas de Ejercicio,0.0
+1222,Pesas,0.0
+2,Pasivos,1000.0
+21,Pasivo a Corto Plazo,1000.0
+211,Proveedores,3000.0
+2111,Ciel,3000.0
+212,Docs. por pagar,0.0
+213,Servicio de agua,-500.0
+214,Servicio de luz,-1500.0
+22,Pasivo a Largo Plazo,0.0
+221,Docs. por pagar,0.0
+3,Capital contable,0.0
+31,Capital social,800000.0
+32,Utilidad,0.0
+4,Cuentas de resultados deudoras,0.0
+41,Compras,3000.0
+42,Costo de venta,0.0
+43,Devoluciones sobre ventas,0.0
+44,Rebajas sobre ventas,0.0
+45,Gastos operativos,8000.0
+451,Gastos de ventas,0.0
+452,Gastos administrativos,8000.0
+4521,Sueldo Ana,4000.0
+4522,Sueldo Michelle Martinez,4000.0
+46,Impuestos causados,0.0
+461,IRS,0.0
+462,PTU,0.0
+463,IA,0.0
+5,Cuentas de resultados acreedoras,15300.0
+51,Ventas,15300.0
+52,Devoluciones sobre compra,0.0
+53,Rebajas sobre compra,0.0
